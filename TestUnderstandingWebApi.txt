@@ -1,0 +1,30 @@
+To test CreateNewStudent
+{
+  Name:'Aviral',
+ StudentNumber:1414054,
+ Branch:'CSE',
+ Semester:'IV',
+Email:'aviral@gmail.com',
+Password:'12345'
+}
+To Test Login
+{
+ Email:'akshay@gmail.com',
+Password:'12345'
+}
+
+To Test Edit
+{
+Id:5
+  Name:'Aviral',
+ StudentNumber:1414054,
+ Branch:'CSE',
+ Semester:'IV',
+Email:'aviral@gmail.com',
+Password:'12345'
+}
+To Test Delete
+
+{
+  Id:4;
+}
